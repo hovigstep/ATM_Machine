@@ -1,0 +1,4 @@
+﻿  ATMmachine.cpp
+c:\users\evestus\desktop\atmmachine\atmmachine\atmmachine.cpp(78): warning C4101: 'conf': unreferenced local variable
+c:\users\evestus\desktop\atmmachine\atmmachine\atmmachine.cpp(316): warning C4101: 'checkNo': unreferenced local variable
+  ATMmachine.vcxproj -> C:\Users\Evestus\Desktop\ATMmachine\Debug\ATMmachine.exe
